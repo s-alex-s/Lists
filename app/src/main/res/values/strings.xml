@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lists</string>
+    <string name="item1">Games</string>
+    <string name="item2">Music</string>
+    <string name="item3">Movies</string>
+    <string name="add_item">Add item...</string>
+    <string name="game_title">Game Title</string>
+    <string name="game_date">Game release date</string>
+    <string name="game_genre">Game genre</string>
+    <string name="music_title">Music Title</string>
+    <string name="music_date">Music date</string>
+    <string name="music_genre">Music genre</string>
+    <string name="music_author">Music Author</string>
+    <string name="movies_title">Movies Title</string>
+    <string name="movies_date">Movies Date</string>
+    <string name="movies_duration">Movies Duration</string>
+    <string name="add_button">Save</string>
+    <string name="data1">Data1</string>
+    <string name="data2">Data2</string>
+    <string name="data3">Data3</string>
+</resources>
